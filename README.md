@@ -1,3 +1,5 @@
+**This is karan's Mega Project List, which I intend to write solutions to in Python, Java, Haskell, and Ruby in order to improve my skills in each language.**
+
 Mega Project List
 ========
 
